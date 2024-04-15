@@ -10,7 +10,7 @@
     "start": "node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "nitzan dahan",
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^5.10.2",
