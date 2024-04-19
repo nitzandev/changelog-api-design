@@ -5,7 +5,7 @@
 <ul style="list-style: none; padding: 0;">
 <li style="margin-bottom: 0.25rem;">CRUD operations on products and updates.</li>
 <li style="margin-bottom: 0.25rem;">User signup and signin with JWT-based authentication.</li>
-<li style="margin-bottom: 0.25rem;">Designed for relational database (configure connection details).</li>
+<li style="margin-bottom: 0.25rem;">Designed for relational database.</li>
 </ul>
 
 <h2>Getting Started</h2>
@@ -17,7 +17,7 @@
 <li style="margin-bottom: 0.25rem;"><code>JWT_SECRET</code>: Secret key for JWT generation.</li>
 </ul>
 </li>
-<li>Implement database migrations (if applicable).</li>
+<li>Implement database migrations.</li>
 <li>Start the server (<code>npm start</code>).</li>
 </ol>
 
