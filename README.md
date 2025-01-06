@@ -36,5 +36,5 @@
 <li style="margin-bottom: 0.25rem;">Unit/integration tests encouraged (Jest recommended).</li>
 <li style="margin-bottom: 0.25rem;">Deployable to production environments (Heroku, AWS).</li>
 </ul>
-<h2>MIT License</h2>
-<p>This project is licensed under the MIT License. See https://opensource.org/license/mit for details.</p>
+<!-- <h2>MIT License</h2>
+<p>This project is licensed under the MIT License. See https://opensource.org/license/mit for details.</p> -->
